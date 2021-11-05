@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "ALLIGATOR"
+    },
+    {
+      "id": 2,
+      "name": "ARMADILLO"
+    },
+    {
+      "id": 3,
+      "name": "ANT"
+    },
+    {
+      "id": 4,
+      "name": "BABOON"
+    },
+    {
+      "id": 5,
+      "name": "BEAVER"
+    },
+    {
+      "id": 6,
+      "name": "BISON"
+    }
+  ]
+}

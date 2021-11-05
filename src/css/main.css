@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Lusitana&display=swap");
+html body {
+  background-color: #131c1f;
+  padding: 5%;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+html body .card {
+  background-color: #090D0E;
+  min-width: 100%;
+  min-height: 80vh;
+}
+
+html body .card .card-title {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3rem;
+  color: #530410;
+  text-align: center;
+  font-weight: 700;
+}
+
+html body .btn-categories {
+  min-width: 100%;
+  background-color: transparent;
+  color: #530410;
+  border: 1px solid #530410;
+  font-weight: 700;
+  font-size: 1rem;
+  white-space: none !important;
+}
+
+html body .btn-categories:hover {
+  min-width: 100%;
+  background-color: #530410;
+  color: #090D0E;
+  border: 1px solid #530410;
+  font-weight: 700;
+  font-size: 1rem;
+  white-space: normal !important;
+}
+/*# sourceMappingURL=main.css.map */
