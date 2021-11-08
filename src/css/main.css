@@ -7,6 +7,12 @@ html body {
   overflow: hidden;
 }
 
+html body .form-control {
+  background-color: white;
+  font-weight: 700;
+  padding-left: 35%;
+}
+
 html body .card {
   background-color: #090D0E;
   min-width: 100%;

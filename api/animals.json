@@ -23,6 +23,22 @@
     {
       "id": 6,
       "name": "BISON"
+    },
+    {
+      "id": 7,
+      "name": "CRAB"
+    },
+    {
+      "id": 8,
+      "name": "CROW"
+    },
+    {
+      "id": 9,
+      "name": "DOLPHIN"
+    },
+    {
+      "id": 10,
+      "name": "EAGLE"
     }
   ]
 }
