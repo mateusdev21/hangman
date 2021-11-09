@@ -22,7 +22,7 @@ html body .card {
 html body .card .card-title {
   font-family: 'Amatic SC', cursive;
   font-size: 3rem;
-  color: #530410;
+  color: white !important;
   text-align: center;
   font-weight: 700;
 }
@@ -30,8 +30,8 @@ html body .card .card-title {
 html body .btn-categories {
   min-width: 100%;
   background-color: transparent;
-  color: #530410;
-  border: 1px solid #530410;
+  color: #B84D4D;
+  border: 1px solid #B84D4D;
   font-weight: 700;
   font-size: 1rem;
   white-space: none !important;
@@ -39,11 +39,17 @@ html body .btn-categories {
 
 html body .btn-categories:hover {
   min-width: 100%;
-  background-color: #530410;
+  background-color: #B84D4D;
   color: #090D0E;
-  border: 1px solid #530410;
+  border: 1px solid #B84D4D;
   font-weight: 700;
   font-size: 1rem;
   white-space: normal !important;
+}
+
+@media only screen and (max-width: 574px) {
+  .form-control {
+    width: 2px !important;
+  }
 }
 /*# sourceMappingURL=main.css.map */

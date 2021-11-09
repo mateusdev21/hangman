@@ -3,16 +3,16 @@
     <div class="card-body">
         <h5 class="card-title">Hangman</h5>
         <div class="row">
-            <h5 class="ml-3 mb-4" style="color: #C5854D;">Select Category :</h5>
+            <h6 class="ml-3 mb-4" style="color: #C5854D;">Select Category :</h6>
         </div>
         <div class="row">
-            <div class="col-md-2 d-flex justify-content-center">
+            <div class="col-md-2 d-flex justify-content-center mb-2">
                 <button class="btn btn-categories p-2 text-capitalize">animals</button>
             </div>
-            <div class="col-md-2 d-flex justify-content-center">
+            <div class="col-md-2 d-flex justify-content-center mb-2">
                 <button class="btn btn-categories p-2 text-capitalize">fruits</button>
             </div>
-            <div class="col-md-2 d-flex justify-content-center">
+            <div class="col-md-2 d-flex justify-content-center mb-2">
                 <button class="btn btn-categories p-2 text-capitalize">movies</button>
             </div>
             <div class="col-md-2"></div>

@@ -1,5 +1,5 @@
 <?php
-$category = "Animals";
+$category = "Fruits";
 include "header.php";
 ?>
 <div class="card p-4">
@@ -40,7 +40,7 @@ include "header.php";
     function addInputBox(word) {
         for (let i = 1; i <= word.length; i++) {
             let input_box = '<div id="box-' + i + '" class="col-md-1 col-sm-2 col-xs-1 mb-4">' +
-                '<input oninput="this.value = this.value.toUpperCase()" type="text" class="form-control input-answer" id="' + i + '" maxlength="1">' +
+                '<input oninput="this.value = this.value.toUpperCase()" type="text" class="form-control input-answer" id="' + i + '" maxlength="1" size="4">' +
                 '</div>';
             $(".input-area").append(input_box);
         }
@@ -61,7 +61,7 @@ include "header.php";
         life = 5;
         $.ajax({
             type: "GET",
-            url: "api/animals.json",
+            url: "api/fruits.json",
             success: function(response) {
                 let words_arr = response.data;
                 console.log(words_arr);

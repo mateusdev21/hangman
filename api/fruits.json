@@ -2,27 +2,43 @@
   "data": [
     {
       "id": 1,
-      "name": "ALLIGATOR"
+      "name": "AVOCADO"
     },
     {
       "id": 2,
-      "name": "ARMADILLO"
+      "name": "APPLE"
     },
     {
       "id": 3,
-      "name": "ANT"
+      "name": "GRAPE"
     },
     {
       "id": 4,
-      "name": "BABOON"
+      "name": "MELON"
     },
     {
       "id": 5,
-      "name": "BEAVER"
+      "name": "WATERMELON"
     },
     {
       "id": 6,
-      "name": "BISON"
+      "name": "ORANGE"
+    },
+    {
+      "id": 7,
+      "name": "STRAWBERRY"
+    },
+    {
+      "id": 8,
+      "name": "BANANA"
+    },
+    {
+      "id": 9,
+      "name": "PAPAYA"
+    },
+    {
+      "id": 10,
+      "name": "KIWI"
     }
   ]
 }
